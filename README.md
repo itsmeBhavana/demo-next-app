@@ -1,5 +1,8 @@
-## Next.js App Router Course - Starter
+# Notes
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## File-system routing
+- Next.js uses file-system routing where folders are used to create the nested routes.
+- Each folder represents a route segment that maps to a URL segment.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Link
+- <Link> allows you to do client-side navigation with JavaScript.
